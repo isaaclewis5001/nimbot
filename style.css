@@ -1,0 +1,45 @@
+* {
+    margin: 0
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    background-color: #525262;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    font-family: sans-serif;
+    color: #ffffff;
+    min-height: 100%;
+    gap: 1.5vw;
+}
+
+main {
+    padding: 1.5vw;
+    margin: 0 1.5vw;
+    border-radius: 0.75vw;
+    background-color: #ffffff;
+    color: #000000;
+    max-width: 1200pc;
+    
+}
+
+main {
+    flex-grow: 1;
+    
+}
+
+header, footer {
+    padding: 1.5vw 3vw;
+    background-color: #22222a;
+}
+
+footer {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    gap: 1vw;
+}
