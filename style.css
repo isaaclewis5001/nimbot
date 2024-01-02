@@ -43,3 +43,11 @@ footer {
     flex-direction: row;
     gap: 1vw;
 }
+
+a {
+    color: #ffffff;
+}
+
+a:visited {
+    color: #dddddd;
+}

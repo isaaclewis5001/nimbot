@@ -15,6 +15,7 @@ function apply_random_page_title() {
         "Nimbot: Now in 3D!",
         "Nimbot: A household classic!",
         "Nimbot: Fun for the whole family!",
+        "Nimbot: Now with even more nim!",
         "Not your grandma's Nimbot!",
         "Nimbot Evolved",
         "Nimbot Advanced",
